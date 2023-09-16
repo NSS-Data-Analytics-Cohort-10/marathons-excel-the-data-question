@@ -25,5 +25,5 @@
 ##### Create a brief (5 minute) presentation to communicate your findings from this exercise.
 
 
-
+Link to powerpoint -->  https://docs.google.com/presentation/d/1ihAbP3hf7yevVM6jXCAUZPgQwg7quQFHM4wlcQFfx0A/edit?usp=sharing
 
